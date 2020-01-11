@@ -1,4 +1,4 @@
-package com.example.fcmtest
+package com.phernandez.tramosluz
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity

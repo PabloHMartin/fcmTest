@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:140618718369:android:df1e3cbde9c2d33cb324e0",
         "android_client_info": {
-          "package_name": "com.example.fcmtest"
+          "package_name": "com.phernandez.tramosluz"
         }
       },
       "oauth_client": [
@@ -37,9 +37,9 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:140618718369:android:75af31371d037dfbb324e0",
+        "mobilesdk_app_id": "1:140618718369:android:7a19cd6d601e32e6b324e0",
         "android_client_info": {
-          "package_name": "com.phernandezm.tramosluz"
+          "package_name": "com.phernandez.tramosluz"
         }
       },
       "oauth_client": [
